@@ -32,7 +32,7 @@ body{
 .text img{
   max-height: 60%;
   min-height: 250px;
-  margin: 0 auto 5%;
+  filter: drop-shadow(2px 20px 15px rgba(44, 62, 80,0.3));
 }
 
 @keyframes bganimation {
