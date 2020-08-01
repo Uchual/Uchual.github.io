@@ -9,6 +9,9 @@ $border-color: #c7c7c7;
 $black: #000;
 $white: #fff;
 $gray: #eaeaea;
+$grayscale: radial-gradient(circle, rgba(236,238,238,1) 0%,
+    rgba(216,216,216,1) 35%,
+    rgba(166,167,166,1) 100%);
 
 // Font Variables
 $primary-font: 'Roboto', sans-serif;
