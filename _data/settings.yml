@@ -1,17 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
-logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+title: Uchual
+logo: UCHUAL
+email: contact@uchual.com
+phone:
+address:
 
 menu:
-- {name: About, link: '/about/'}
+- {name: About Us, link: '/about/'}
 - {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: Contact Us, link: '/contact/'}
 
 
 #-------------------------------
@@ -22,7 +21,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: UA-38676921-4
 
 
 #-------------------------------
@@ -35,13 +34,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! We're <br> Uchual <br> Company
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://facebook.com/UchualCompany"}
+- {icon: "ti-instagram", link: "https://instagram.com/uchualcompany/"}
 
 
 #-------------------------------
@@ -290,4 +287,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: contact@uchual.com

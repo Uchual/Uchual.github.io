@@ -107,7 +107,9 @@ a:hover {
 }
 
 .bg-primary {
-  background: $grayscale;
+  background-image: linear-gradient(125deg,#165055,#22a6b3,#2980b9,#B53471,#8e44ad);
+  background-size: 100% 200%;
+  animation: bganimation 15s infinite;
 }
 
 .bg-gray{
